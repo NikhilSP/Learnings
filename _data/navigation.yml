@@ -3,6 +3,8 @@ main:
   - title: "Blog"
     url: /
   - title: "About"
-    url: /about/
+    url: /collection-archive/
   - title: "Resume"
-    url: /MyBlog/Resume/
+    url: /docs/collection-archive/
+  - title: "Resume2"
+    url: /docs/_pages/collection-archive/
