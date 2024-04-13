@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: /
   - title: "About"
-    url: /collection-archive/
+    url: /docs/quick-start-guide/
   - title: "Resume"
     url: /docs/collection-archive/
   - title: "New Now"
